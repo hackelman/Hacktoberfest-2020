@@ -1,17 +1,35 @@
-# Hacktoberfest2020 --- It's a very good program to contribute in an Open source. Create 4 Pull Request and get a free swags.
+# Awesome Hacktoberfest ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-![Hacktoberfest-2020](https://images.prismic.io/www-static/e6c04b47-bd9d-474a-9d25-ab143f47349e_Hacktoberfest2020.png?auto=compress,format)
+> [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a chance to level up your coding skills and get small goodies in reward.
+
+<br />
+<p align="center">
+  <a href="https://hacktoberfest.digitalocean.com/">
+    <img src="https://i.ibb.co/4FjRdbH/Logo-Sponsors-Light.png" alt="Logo">
+  </a>
+</p>
+
 
 ## This project is perfect for your first pull request
 
-## Instructions-
+## Contributing
 
-- Fork this Repository using the button at the top
-- Clone your forked repository to your pc ( git clone "url from clone option.)
-- Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
-- Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
-- Create a pull request
-- Star this repository
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch 
+```md
+   git checkout -b feature/AmazingFeature
+```
+3. Commit your Changes 
+```md
+   git commit -m 'Add some AmazingFeature'
+```
+4. Push to the Branch
+```md
+   git push origin feature/AmazingFeature
+``` 
+5. Open a Pull Request
 
 # How to make your first Pull Request
 
