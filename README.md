@@ -1,5 +1,7 @@
 # Hacktoberfest2020 --- It's a very good program to contribute in an Open source. Create 4 Pull Request and get a free swags.
 
+![Hacktoberfest-2020](https://images.prismic.io/www-static/e6c04b47-bd9d-474a-9d25-ab143f47349e_Hacktoberfest2020.png?auto=compress,format)
+
 ## This project is perfect for your first pull request
 
 ## Instructions-
