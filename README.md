@@ -15,14 +15,14 @@
 
 # How to make your first Pull Request
 
-## 1. Comment on the issues created in this repository.
+- Comment on the issues created in this repository.
 
-## 2. Wait for the owner to assign you the issue.
+- Wait for the owner to assign you the issue.
 
-## 3. When the owner has assigned you the issue start working on it.
+- When the owner has assigned you the issue start working on it.
 
-## 4. Create a Pull Request of your work done.
+- Create a Pull Request of your work done.
 
-## 5. Wait for Pull Request to merge
+- Wait for Pull Request to merge
 
-## 6. Celebrate - you've done your first pull request!!
+- Celebrate - you've done your first pull request!!
